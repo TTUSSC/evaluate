@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ttussc.github.io/11th">
-    <img src="img/SSC_logo_blue.png" alt="TTUSSC" weight="500">
+    <img src="img/SSC_logo_blue.png" alt="TTUSSC">
   </a>
 </p>
 
